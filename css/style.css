@@ -49,3 +49,33 @@ nav ul li a{
 .qualities-img{
     width: 110px;
 }
+/* start 3rd section*/
+.requirement-section{
+    background-color:#004d80 ;
+    color: white;
+}
+/* end 3rd section*/
+
+/* start 5th section*/
+.home-newsletter{
+    background-color:#004d80 ;
+    color: white;
+}
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn{
+    min-height: 50px;
+    background: #243c4f;
+    border-radius: 0 20px 20px 0;
+    color: #fff;
+}
+/* end 5th section*/
+/* 6th section same as 2*/
+/* start 7th section*/
+.client-section{
+    background-color: #f0f0f0;
+}
+/* end 7th section*/
