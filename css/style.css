@@ -85,4 +85,11 @@ nav ul li a{
     background-color:#e9ecef ;
 }
 /* END ABOUT US section*/
-
+/* START SERVICES WEDDING CARDS section*/
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 19px;
+}
+/* END SERVICES WEDDING CARDS section*/
